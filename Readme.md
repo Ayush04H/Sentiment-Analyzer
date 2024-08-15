@@ -1,4 +1,4 @@
-# Sentiment Analysis Dashboard
+# Sentiment Analysis Dashboard (Work In Progress)
 
 The **Sentiment Analysis Dashboard** is a web-based application designed to analyze the sentiment of text data using machine learning techniques. The application provides an API for analyzing text sentiment, generating visual graphs based on sentiment scores, and presenting a dashboard for aggregated sentiment analysis. The backend is built with FastAPI and MongoDB for data storage.
 
