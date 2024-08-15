@@ -1,0 +1,4 @@
+_id,text,sentiment_scores.neg,sentiment_scores.neu,sentiment_scores.pos,sentiment_scores.compound
+66be0a7e0a6021e518913675,"Good product , But needs improvement",0,0.335,0.665,0.714
+66be0b350a6021e518913677,Unable to access product,0,1,0,0
+66be0f2dade93775eaf60cec,"This is Good, but needs improvement in quality and price is also Fair",0,0.529,0.471,0.836
