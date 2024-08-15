@@ -2,3 +2,9 @@ _id,text,sentiment_scores.neg,sentiment_scores.neu,sentiment_scores.pos,sentimen
 66be0a7e0a6021e518913675,"Good product , But needs improvement",0,0.335,0.665,0.714
 66be0b350a6021e518913677,Unable to access product,0,1,0,0
 66be0f2dade93775eaf60cec,"This is Good, but needs improvement in quality and price is also Fair",0,0.529,0.471,0.836
+66be10d2ade93775eaf60cee,Good Product,0,0.256,0.744,0.4404
+66be27190f303a793cfa178f,Worst Quality,0.804,0.196,0,-0.6249
+66be2c480671bfed1a46927e,"Good Product, Quality can be improved",0,0.4,0.6,0.7184
+66be30170671bfed1a469280,"Ok, Product",0,0.312,0.688,0.296
+66be3039c1335b7e64fe40a0,Not A Good Product ,0.546,0.454,0,-0.3412
+66be3044c1335b7e64fe40a1,A Good Product ,0,0.256,0.744,0.4404
