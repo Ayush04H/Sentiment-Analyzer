@@ -1,0 +1,11 @@
+2024-08-16 17:41:08,915 - main - INFO - Root endpoint accessed.
+2024-08-16 17:41:46,305 - utils - INFO - Sentiment analysis complete for text: Good Product
+2024-08-16 17:41:46,624 - utils - INFO - Text and sentiment scores saved to MongoDB for text: Good Product
+2024-08-16 17:41:46,627 - main - INFO - Sentiment analysis successful for text: Good Product
+2024-08-16 17:42:13,388 - utils - INFO - Sentiment scores retrieved for text_id: 66bf420202ab8dc11a0407b5
+2024-08-16 17:42:16,174 - utils - INFO - Sentiment graph created successfully.
+2024-08-16 17:42:16,295 - utils - INFO - Sentiment graph image saved to MongoDB for text_id: 66bf420202ab8dc11a0407b5
+2024-08-16 17:42:16,297 - main - INFO - Sentiment graph generated for text_id: 66bf420202ab8dc11a0407b5
+2024-08-16 17:42:32,615 - utils - INFO - Dashboard data aggregated successfully.
+2024-08-16 17:42:32,803 - utils - INFO - Sentiment graph created successfully.
+2024-08-16 17:42:32,804 - main - INFO - Dashboard data retrieved and graph generated.
