@@ -9,3 +9,39 @@
 2024-08-16 17:42:32,615 - utils - INFO - Dashboard data aggregated successfully.
 2024-08-16 17:42:32,803 - utils - INFO - Sentiment graph created successfully.
 2024-08-16 17:42:32,804 - main - INFO - Dashboard data retrieved and graph generated.
+2024-08-16 17:52:07,679 - utils - INFO - Sentiment analysis complete for text: Product Is Good, Quality is Good , Enhancements can be done
+2024-08-16 17:52:07,699 - utils - INFO - Text and sentiment scores saved to MongoDB for text: Product Is Good, Quality is Good , Enhancements can be done
+2024-08-16 17:52:07,700 - main - INFO - Sentiment analysis and data storage successful.
+2024-08-16 17:52:31,733 - utils - INFO - Sentiment scores retrieved for text_id: 66bf446f54d03fed6a6bb4f6
+2024-08-16 17:52:32,530 - utils - INFO - Sentiment graph created successfully with enhanced styling.
+2024-08-16 17:52:32,532 - utils - INFO - Sentiment graph image saved to MongoDB for text_id: 66bf446f54d03fed6a6bb4f6
+2024-08-16 17:52:32,533 - main - INFO - Sentiment graph generated and stored successfully.
+2024-08-16 17:52:42,016 - utils - INFO - Dashboard data aggregated successfully.
+2024-08-16 17:52:42,496 - utils - INFO - Dashboard graph created successfully with enhanced styling.
+2024-08-16 17:52:42,498 - main - INFO - Dashboard data retrieved and enhanced graph generated.
+2024-08-16 22:36:28,225 - utils - INFO - Sentiment analysis complete for text: Strange Product
+2024-08-16 22:36:28,243 - utils - INFO - Text and sentiment scores saved to MongoDB for text: Strange Product
+2024-08-16 22:36:28,244 - main - INFO - Sentiment analysis and data storage successful.
+2024-08-16 22:36:46,033 - utils - INFO - Sentiment scores retrieved for text_id: 66bf8714f7ff9b6abcaf04c9
+2024-08-16 22:36:49,987 - utils - INFO - Interactive sentiment graph created successfully.
+2024-08-16 22:36:49,988 - main - INFO - Sentiment graph generated and served successfully.
+2024-08-16 22:38:45,768 - utils - INFO - Sentiment analysis complete for text: Provide product not ok
+2024-08-16 22:38:45,778 - utils - INFO - Text and sentiment scores saved to MongoDB for text: Provide product not ok
+2024-08-16 22:38:45,780 - main - INFO - Sentiment analysis and data storage successful.
+2024-08-16 22:39:01,046 - utils - INFO - Sentiment scores retrieved for text_id: 66bf879dec5c1d2b13b5ae3f
+2024-08-16 22:39:02,015 - utils - INFO - Sentiment graph created successfully with enhanced styling.
+2024-08-16 22:39:02,017 - utils - INFO - Sentiment graph image saved to MongoDB for text_id: 66bf879dec5c1d2b13b5ae3f
+2024-08-16 22:39:02,018 - main - INFO - Sentiment graph generated and stored successfully.
+2024-08-16 22:39:10,789 - utils - INFO - Dashboard data aggregated successfully.
+2024-08-16 22:39:11,280 - utils - INFO - Dashboard graph created successfully with enhanced styling.
+2024-08-16 22:39:11,281 - main - INFO - Dashboard data retrieved and enhanced graph generated.
+2024-08-16 22:45:55,907 - utils - INFO - Sentiment analysis complete for text: Yes, Its a good product
+2024-08-16 22:45:55,914 - utils - INFO - Text and sentiment scores saved to MongoDB for text: Yes, Its a good product
+2024-08-16 22:45:55,915 - main - INFO - Sentiment analysis and data storage successful.
+2024-08-16 22:46:28,411 - utils - INFO - Sentiment scores retrieved for text_id: 66bf894bc7aada1d30786af1
+2024-08-16 22:46:29,041 - utils - INFO - Sentiment graph created successfully with enhanced styling.
+2024-08-16 22:46:29,043 - utils - INFO - Sentiment graph image saved to MongoDB for text_id: 66bf894bc7aada1d30786af1
+2024-08-16 22:46:29,044 - main - INFO - Sentiment graph generated and stored successfully.
+2024-08-16 22:46:41,307 - utils - INFO - Dashboard data aggregated successfully.
+2024-08-16 22:46:41,727 - utils - INFO - Dashboard graph created successfully with enhanced styling.
+2024-08-16 22:46:41,728 - main - INFO - Dashboard data retrieved and enhanced graph generated.
