@@ -9,3 +9,8 @@ _id,text,sentiment_scores.neg,sentiment_scores.neu,sentiment_scores.pos,sentimen
 66be3039c1335b7e64fe40a0,Not A Good Product ,0.546,0.454,0,-0.3412
 66be3044c1335b7e64fe40a1,A Good Product ,0,0.256,0.744,0.4404
 66bf420202ab8dc11a0407b5,Good Product,0,0.256,0.744,0.4404
+66bf446f54d03fed6a6bb4f6,"Product Is Good, Quality is Good , Enhancements can be done",0,0.58,0.42,0.7003
+66bf8714f7ff9b6abcaf04c9,Strange Product,0.643,0.357,0,-0.2023
+66bf879dec5c1d2b13b5ae3f,Provide product not ok,0.386,0.614,0,-0.2235
+66bf894bc7aada1d30786af1,"Yes, Its a good product",0,0.263,0.737,0.6808
+66c02be96f880bf0a5492956,"A good quality product , Battery Life Can be improved",0,0.5,0.5,0.7184
